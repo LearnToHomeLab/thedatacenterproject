@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Follow our social media!"
-    image: "/thedatacenterproject/static/images/front page tile social media.png"
+    image: "/thedatacenterproject/images/front page tile social media.png"
     content: "To make this project come alive we need your help, by following us on social media, you will be able to make this project come to life!"
     bulletpoints:
       - "Social media = revenue to fund the project"
