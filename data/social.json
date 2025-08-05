@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "YouTube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@learntohomelab/"
+    },
+    {
+      "name": "GitHub",
+      "icon": "fab fa-github",
+      "link": "https://github.com/LearnToHomeLab/"
+    },
+    {
+      "name": "Our Website",
+      "icon": "fab fa-link",
+      "link": "https://www.learntohomelab.com/"
+    }
+  ]
+}
