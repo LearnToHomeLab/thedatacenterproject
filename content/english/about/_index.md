@@ -2,7 +2,7 @@
 title: "Who We are:"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/DCPandLTHLogoAboutPage.png"
+image: "images/DCPandLTHLogoAboutPage.png"
 draft: false
 ---
 Welcome to The Data Center Project (DCP) – part of the Learn To Homelab (LTH) Community! We’re excited to have you here. DCP is proudly operated under the LTH umbrella, which was founded by Abe Peterson on YouTube in 2024 ([YouTube](https://www.youtube.com/@learntohomelab)) ([Our Website](https://www.learntohomelab.com/)). Thanks to rapid support from the homelab community, both the channel and the LTH team have grown quickly, allowing us to launch innovative projects like DCP.

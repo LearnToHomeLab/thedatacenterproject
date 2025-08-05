@@ -3,7 +3,7 @@
 banner:
   title: "The Ultimate Community Operated Data Center"
   content: "DCP is a community-driven, cost-sharing organization where major decisions are guided by member votes. Think employee ownership—with true community influence."
-  image: "/images/DataCenterBuildingIdea.png"
+  image: "images/DataCenterBuildingIdea.png"
   button:
     enable: true
     label: "Learn More Here"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Follow our social media!"
-    image: "/thedatacenterproject/images/front page tile social media.png"
+    image: "images/frontpagetilesocialmedia.png"
     content: "To make this project come alive we need your help, by following us on social media, you will be able to make this project come to life!"
     bulletpoints:
       - "Social media = revenue to fund the project"
@@ -28,7 +28,7 @@ features:
       link: "#"
 
   - title: "Help fund the project!"
-    image: "/images/front page tile donate.png"
+    image: "images/frontpagetiledonate.png"
     content: "We have multiple ways to fund this project, some include passive methods like watching our YouTube videos and subscribing, others include patreon subscriptions or donations!"
     bulletpoints:
       - "Help Fund this project with our Patreon Memberships [<u>**click here**</u>](https://www.patreon.com/c/learntohomelab/membership)"
@@ -40,7 +40,7 @@ features:
       link: "https://www.patreon.com/c/learntohomelab/membership"
 
   - title: "Learn More"
-    image: "/images/front page tile formatlearn more.png"
+    image: "images/frontpagetileforatlearnmore.png"
     content: "You can learn more by:"
     bulletpoints:
       - "Subscribing to our [<u>**Youtube**</u>](https://www.youtube.com/@learntohomelab)"
@@ -52,7 +52,7 @@ features:
       link: "/blog"
 
   - title: "Our Advantages"
-    image: "/images/front page tile format our advantages.png"
+    image: "images/frontpagetileformatouradvantages.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Innovative, non-traditional colocation options—including small-form hardware like Raspberry Pi."

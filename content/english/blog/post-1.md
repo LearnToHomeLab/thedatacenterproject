@@ -3,7 +3,7 @@ title: "Welcome to the DCP"
 meta_title: "Introduction to The Data Center Project"
 description: "What is the Data Center Project"
 date: 2025-08-01T14:00:00Z
-image: "/images/blogPageImageTemplate1.png"
+image: "images/blogPageImageTemplate1.png"
 categories: ["Updates"]
 author: "Abe P."
 tags: ["DCP_Updates", ""]
