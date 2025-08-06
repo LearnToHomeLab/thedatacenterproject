@@ -81,7 +81,7 @@ keywords = ["homelab",
 description = "Join the community powering the next generation of homelabs and mini data centers! Donate hardware, rent VPS, or find affordable colocation for your small business or personal projects. Perfect for homelab enthusiasts and startups."
 author = "Learn To Homelab"
 twitter = "Learn To Homelab"
-image = "images/og-image.png"
+image = "images/datacenterlinkimage.png"
 
 
 # site verifications
